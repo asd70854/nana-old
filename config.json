@@ -1,7 +1,7 @@
 {
   "TOKEN": "https://discord.com/api/webhooks/796359408816619551/1Bwd_u-JWPwi3azQy4quwmWIMAbEqzmHzGZAQiraHrolMwyjL-mM1z027bMhvd44N8Qo",
-  "PREFIX": "nhen",
+  "PREFIX": "nh",
   "COLOR": "#DD474D",
   "OWNERS": ["Nana"],
-  "LANG": ["english", "chinese", "japanese"]
+  "LANG": ["chinese"]
 }
